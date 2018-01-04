@@ -1,0 +1,4 @@
+click
+polib
+commentjson
+google-api-python-client
